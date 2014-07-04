@@ -64,3 +64,4 @@ sudo cp /vagrant/Mips.xml /opt/MPSoCBench/Mips.xml
 sudo cp /vagrant/mips_block_template.ac /opt/MPSoCBench/mips_block_template.ac
 cd /vagrant/mcpat
 sudo make
+sudo chmod -R 777 /opt/MPSoCBench
