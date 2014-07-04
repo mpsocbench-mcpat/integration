@@ -75,9 +75,9 @@ mcpat_file = open("Mips.xml")
 mcpat_data = mcpat_file.read()
 
 mcpat_replace = [('_N_CORES_', MPSoCBencharguments['n_cores']), ('_CORE_TECH_', MPSoCBencharguments['McPAT']['core_tech_node']), ('_CLOCK_RATE_', MPSoCBencharguments['McPAT']['clock_rate']),
-('_PIPELINE_PER_CORE_INT', MPSoCBencharguments['McPAT']['pipeline_por_core_de_inteiro']), ('_PIPELINE_PER_CORE_FLOAT', MPSoCBencharguments['McPAT']['pipeline_por_core_de_float']),
-('_NUMBER_STAGE_INT', MPSoCBencharguments['McPAT']['quantidade_estagio_pipeline_de_inteiro']), ('_NUMBER_STAGE_FLOAT', MPSoCBencharguments['McPAT']['quantidade_estagio_pipeline_de_float']),
-('_ALU_PER_CORE_', MPSoCBencharguments['McPAT']['quantidade_alu_por_core']),('_MUL_PER_CORE_', MPSoCBencharguments['McPAT']['quantidade_mul_por_core']),('_FPU_PER_CORE_', MPSoCBencharguments['McPAT']['quantidade_fpu_por_core'])]
+('_PIPELINE_PER_CORE_INT', MPSoCBencharguments['McPAT']['int_pipeline_per_core']), ('_PIPELINE_PER_CORE_FLOAT', MPSoCBencharguments['McPAT']['float_pipeline_per_core']),
+('_NUMBER_STAGE_INT', MPSoCBencharguments['McPAT']['number_stages_int_pipeline']), ('_NUMBER_STAGE_FLOAT', MPSoCBencharguments['McPAT']['number_stages_float_pipeline']),
+('_ALU_PER_CORE_', MPSoCBencharguments['McPAT']['alu_per_core']),('_MUL_PER_CORE_', MPSoCBencharguments['McPAT']['mul_per_core']),('_FPU_PER_CORE_', MPSoCBencharguments['McPAT']['fpu_per_core'])]
 
 for search, replace in mcpat_replace:
 	mcpat_data = mcpat_data.replace(search, replace)

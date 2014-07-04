@@ -8,13 +8,13 @@
 		"bin_directory" : "/vagrant/mcpat/",
 		"clock_rate" : "322",
 		"core_tech_node" : "22",
-		"pipeline_por_core_de_inteiro" : "1",
-		"pipeline_por_core_de_float" : "1",
-		"quantidade_estagio_pipeline_de_inteiro" : "5",
-		"quantidade_estagio_pipeline_de_float" : "7",
-		"quantidade_alu_por_core" : "1",
-		"quantidade_mul_por_core" : "1",
-		"quantidade_fpu_por_core" : "1"
+		"int_pipeline_per_core" : "1",
+		"float_pipeline_per_core" : "1",
+		"number_stages_int_pipeline" : "5",
+		"number_stages_float_pipeline" : "7",
+		"alu_per_core" : "1",
+		"mul_per_core" : "1",
+		"fpu_per_core" : "1"
 	},
 	"output_directory" : "/vagrant/execute/",
 	"isa" : {
