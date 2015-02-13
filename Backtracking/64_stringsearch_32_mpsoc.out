@@ -1,0 +1,512 @@
+Core 0
+Cache statistics:
+Read:   miss: 1286408 (24.4487%) hit: 3975247 (75.5513%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261810
+    Simulation speed: 19.01 K instr/s
+Core 1
+Cache statistics:
+Read:   miss: 29599 (0.562571%) hit: 5231778 (99.4374%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 2
+Cache statistics:
+Read:   miss: 46008 (0.874448%) hit: 5215371 (99.1256%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 3
+Cache statistics:
+Read:   miss: 37999 (0.722225%) hit: 5223378 (99.2778%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 4
+Cache statistics:
+Read:   miss: 32339 (0.614649%) hit: 5229040 (99.3854%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 5
+Cache statistics:
+Read:   miss: 54689 (1.03944%) hit: 5206684 (98.9606%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261376
+    Simulation speed: 19.01 K instr/s
+Core 6
+Cache statistics:
+Read:   miss: 38279 (0.727547%) hit: 5223101 (99.2725%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 7
+Cache statistics:
+Read:   miss: 38279 (0.727547%) hit: 5223101 (99.2725%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 8
+Cache statistics:
+Read:   miss: 38279 (0.727547%) hit: 5223101 (99.2725%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 9
+Cache statistics:
+Read:   miss: 38279 (0.727547%) hit: 5223101 (99.2725%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 10
+Cache statistics:
+Read:   miss: 38279 (0.727547%) hit: 5223099 (99.2725%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 11
+Cache statistics:
+Read:   miss: 38379 (0.729448%) hit: 5222998 (99.2706%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 12
+Cache statistics:
+Read:   miss: 38479 (0.731348%) hit: 5222899 (99.2687%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 13
+Cache statistics:
+Read:   miss: 38479 (0.731348%) hit: 5222901 (99.2687%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 14
+Cache statistics:
+Read:   miss: 39244 (0.745888%) hit: 5222133 (99.2541%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 15
+Cache statistics:
+Read:   miss: 30678 (0.583079%) hit: 5230701 (99.4169%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 16
+Cache statistics:
+Read:   miss: 42541 (0.808552%) hit: 5218838 (99.1914%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 17
+Cache statistics:
+Read:   miss: 36401 (0.691853%) hit: 5224976 (99.3081%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 18
+Cache statistics:
+Read:   miss: 38596 (0.733572%) hit: 5222784 (99.2664%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 19
+Cache statistics:
+Read:   miss: 36146 (0.687006%) hit: 5225233 (99.313%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 20
+Cache statistics:
+Read:   miss: 37716 (0.716847%) hit: 5223661 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 21
+Cache statistics:
+Read:   miss: 35801 (0.680449%) hit: 5225576 (99.3196%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 22
+Cache statistics:
+Read:   miss: 38826 (0.737944%) hit: 5222551 (99.2621%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 23
+Cache statistics:
+Read:   miss: 37926 (0.720838%) hit: 5223452 (99.2792%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 24
+Cache statistics:
+Read:   miss: 40021 (0.760656%) hit: 5221357 (99.2393%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 25
+Cache statistics:
+Read:   miss: 31443 (0.597619%) hit: 5229935 (99.4024%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 26
+Cache statistics:
+Read:   miss: 38826 (0.737944%) hit: 5222551 (99.2621%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 27
+Cache statistics:
+Read:   miss: 41564 (0.789983%) hit: 5219816 (99.21%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 28
+Cache statistics:
+Read:   miss: 37031 (0.703827%) hit: 5224348 (99.2962%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 29
+Cache statistics:
+Read:   miss: 36263 (0.68923%) hit: 5225114 (99.3108%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 30
+Cache statistics:
+Read:   miss: 37716 (0.716847%) hit: 5223661 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 31
+Cache statistics:
+Read:   miss: 39929 (0.758908%) hit: 5221448 (99.2411%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 32
+Cache statistics:
+Read:   miss: 33365 (0.634149%) hit: 5228014 (99.3659%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 33
+Cache statistics:
+Read:   miss: 37716 (0.716847%) hit: 5223661 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 34
+Cache statistics:
+Read:   miss: 39929 (0.758908%) hit: 5221450 (99.2411%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 35
+Cache statistics:
+Read:   miss: 34351 (0.65289%) hit: 5227027 (99.3471%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 36
+Cache statistics:
+Read:   miss: 40578 (0.771243%) hit: 5220802 (99.2288%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 37
+Cache statistics:
+Read:   miss: 37716 (0.716846%) hit: 5223663 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 38
+Cache statistics:
+Read:   miss: 32716 (0.621814%) hit: 5228662 (99.3782%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 39
+Cache statistics:
+Read:   miss: 39929 (0.758908%) hit: 5221450 (99.2411%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.08 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 40
+Cache statistics:
+Read:   miss: 34351 (0.65289%) hit: 5227027 (99.3471%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 41
+Cache statistics:
+Read:   miss: 40578 (0.771243%) hit: 5220802 (99.2288%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 42
+Cache statistics:
+Read:   miss: 37716 (0.716846%) hit: 5223663 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 43
+Cache statistics:
+Read:   miss: 39244 (0.745888%) hit: 5222133 (99.2541%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 44
+Cache statistics:
+Read:   miss: 33401 (0.634834%) hit: 5227977 (99.3652%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 45
+Cache statistics:
+Read:   miss: 34351 (0.65289%) hit: 5227027 (99.3471%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 46
+Cache statistics:
+Read:   miss: 40578 (0.771243%) hit: 5220802 (99.2288%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261383
+    Simulation speed: 19.01 K instr/s
+Core 47
+Cache statistics:
+Read:   miss: 37716 (0.716846%) hit: 5223663 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 48
+Cache statistics:
+Read:   miss: 39244 (0.745888%) hit: 5222133 (99.2541%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 49
+Cache statistics:
+Read:   miss: 30678 (0.583079%) hit: 5230701 (99.4169%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 50
+Cache statistics:
+Read:   miss: 42541 (0.808552%) hit: 5218838 (99.1914%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 51
+Cache statistics:
+Read:   miss: 35111 (0.667335%) hit: 5226267 (99.3327%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 52
+Cache statistics:
+Read:   miss: 37716 (0.716846%) hit: 5223663 (99.2832%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 53
+Cache statistics:
+Read:   miss: 39244 (0.745888%) hit: 5222133 (99.2541%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 54
+Cache statistics:
+Read:   miss: 30678 (0.583079%) hit: 5230699 (99.4169%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261380
+    Simulation speed: 19.01 K instr/s
+Core 55
+Cache statistics:
+Read:   miss: 42541 (0.808552%) hit: 5218838 (99.1914%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 56
+Cache statistics:
+Read:   miss: 36401 (0.691853%) hit: 5224978 (99.3081%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 57
+Cache statistics:
+Read:   miss: 36426 (0.692328%) hit: 5224952 (99.3077%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 58
+Cache statistics:
+Read:   miss: 39244 (0.745888%) hit: 5222135 (99.2541%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 59
+Cache statistics:
+Read:   miss: 30678 (0.583079%) hit: 5230701 (99.4169%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 60
+Cache statistics:
+Read:   miss: 42541 (0.808552%) hit: 5218838 (99.1914%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 61
+Cache statistics:
+Read:   miss: 36401 (0.691853%) hit: 5224978 (99.3081%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
+Core 62
+Cache statistics:
+Read:   miss: 38596 (0.733572%) hit: 5222782 (99.2664%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261381
+    Simulation speed: 19.01 K instr/s
+Core 63
+Cache statistics:
+Read:   miss: 31350 (0.595851%) hit: 5230029 (99.4041%)
+Write:  miss: 0 (0%) hit: 0 (0%)
+ArchC: Simulation statistics
+    Times: 276.80 user, 0.25 system, 276.07 real
+    Number of instructions executed: 5261382
+    Simulation speed: 19.01 K instr/s
